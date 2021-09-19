@@ -1,0 +1,13 @@
+version: 1.10
+main: com.hhyusein.plugin.Main
+name: player-Flight
+author: xMrShadyx
+description: This plugin gives, flight ability to non OP player.
+api-version: 1.17
+
+commands:
+  pfly:
+    aliases: []
+    description: Free fly for non OP players.
+
+    

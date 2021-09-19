@@ -1,0 +1,3 @@
+module firstPlugin {
+	requires spigot;
+}
